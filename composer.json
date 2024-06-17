@@ -27,7 +27,7 @@
         "zendframework/zend-stdlib": "^2.7.7 || ^3.0.1",
         "zfcampus/zf-api-problem": "^1.2.1",
         "zfcampus/zf-content-negotiation": "^1.2.1",
-        "zfcampus/zf-oauth2": "dev-main"
+        "zfcampus/zf-oauth2": "@dev"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7.27 || ^6.5.8 || ^7.1.5",
