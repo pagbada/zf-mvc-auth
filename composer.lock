@@ -1667,12 +1667,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-oauth2.git",
-                "reference": "5a7ad69c42bef760b5ecd4fef73a9c1f0cf141a6"
+                "reference": "d3a5fd2209e44c5c94d699a92de1de2172104600"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-oauth2/zipball/5a7ad69c42bef760b5ecd4fef73a9c1f0cf141a6",
-                "reference": "5a7ad69c42bef760b5ecd4fef73a9c1f0cf141a6",
+                "url": "https://api.github.com/repos/pagbada/zf-oauth2/zipball/d3a5fd2209e44c5c94d699a92de1de2172104600",
+                "reference": "d3a5fd2209e44c5c94d699a92de1de2172104600",
                 "shasum": ""
             },
             "require": {
@@ -1756,7 +1756,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-17T08:32:04+00:00"
+            "time": "2024-06-17T10:36:32+00:00"
         }
     ],
     "packages-dev": [
