@@ -1667,12 +1667,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pagbada/zf-oauth2.git",
-                "reference": "d3a5fd2209e44c5c94d699a92de1de2172104600"
+                "reference": "6016e2ed7f5743bd6be61b5f724d91f333a5b513"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pagbada/zf-oauth2/zipball/d3a5fd2209e44c5c94d699a92de1de2172104600",
-                "reference": "d3a5fd2209e44c5c94d699a92de1de2172104600",
+                "url": "https://api.github.com/repos/pagbada/zf-oauth2/zipball/6016e2ed7f5743bd6be61b5f724d91f333a5b513",
+                "reference": "6016e2ed7f5743bd6be61b5f724d91f333a5b513",
                 "shasum": ""
             },
             "require": {
@@ -1700,6 +1700,7 @@
             "suggest": {
                 "alcaeus/mongo-php-adapter": "^1.0.5, if you are using ext/mongodb and wish to use the MongoAdapter for OAuth2 credential storage."
             },
+            "default-branch": true,
             "bin": [
                 "bin/bcrypt.php"
             ],
@@ -1756,7 +1757,7 @@
                 "chat": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/apigility"
             },
-            "time": "2024-06-17T10:36:32+00:00"
+            "time": "2024-06-17T13:38:18+00:00"
         }
     ],
     "packages-dev": [
