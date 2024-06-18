@@ -69,11 +69,11 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/pagbada/oauth2-server-php"
+            "url": "https://github.com/pagbada/zf-oauth2"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/pagbada/zf-oauth2"
+            "url": "https://github.com/pagbada/oauth2-server-php"
         }
     ]
 }
